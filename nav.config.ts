@@ -14,7 +14,7 @@ const c: IConfig = {
   showGithub: false,
 
   // what is your website address. It is good for your SEO
-  homeUrl: 'https://nav.51sec.org',
+  homeUrl: 'https://github.com/unix9021',
 
   // Web Site Tiltle
   title: 'unix9021 Navigation',
